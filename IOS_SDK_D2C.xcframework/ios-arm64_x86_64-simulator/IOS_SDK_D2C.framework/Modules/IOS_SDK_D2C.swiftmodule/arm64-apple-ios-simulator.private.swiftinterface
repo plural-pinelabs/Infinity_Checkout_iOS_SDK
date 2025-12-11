@@ -99,7 +99,7 @@ public class EdgeControler {
 @objc public protocol ResponseCallback {
   @objc func onFailureResponse(orderID: Swift.String, status: Swift.String, code: Swift.String, message: Swift.String)
   @objc func onSuccessResponse(orderId: Swift.String, status: Swift.String)
-  @objc func onCancelTxn(code: Swift.Int, message: Swift.String)
+  @objc func onCancelTxn(orderId: Swift.String, code: Swift.Int, message: Swift.String)
   @objc func onPressedBackButton(code: Swift.Int, message: Swift.String)
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class WebViewController : UIKit.UIViewController, WebKit.WKNavigationDelegate, WebKit.WKScriptMessageHandler, WebKit.WKUIDelegate, UIKit.UINavigationControllerDelegate {
