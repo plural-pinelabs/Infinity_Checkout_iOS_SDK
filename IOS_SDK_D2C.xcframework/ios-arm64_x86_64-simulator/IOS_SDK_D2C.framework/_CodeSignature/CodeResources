@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ryQiKJ0w6G9/BFB3yWTboNucozw=
+		FNAKfK44gzZoz1SjgV+LdlWEEgA=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		nhatNlaPgiQPmgEbHANKNDj4qtc=
+		QiRbQMWEj58vFYWBxGLk//YliAU=
 		</data>
 		<key>Base.lproj/Main.storyboardc/KeyFactStatementViewController.nib</key>
 		<data>
@@ -95,6 +95,10 @@
 		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
 		<data>
 		AtsoAPhVmsyVgO0+F6oAjvZgM8c=
+		</data>
+		<key>Base.lproj/Main.storyboardc/PRA-sZ-FFu-view-xpn-b2-s7f.nib</key>
+		<data>
+		eEaubOhXxy67QU8ngsF2oGeBhwY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/PaW-e9-NHD-view-Vwu-mx-YkA.nib</key>
 		<data>
@@ -210,11 +214,19 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/emiFirstPage.nib</key>
 		<data>
-		OT0ZyxV7TIijdzcbojHA3rjZqyQ=
+		+BtGpZqD5ETDGXyYHy2KGzvjyYM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/emiPlanSelctionPage.nib</key>
 		<data>
 		dI3hU7mlXAC6LTHAT2HWPSM7u+8=
+		</data>
+		<key>Base.lproj/Main.storyboardc/emidownpaymentbreakup.nib</key>
+		<data>
+		RHFE0d6Bka11DN3P/4XRQzJG6h0=
+		</data>
+		<key>Base.lproj/Main.storyboardc/emidownpaymentpage.nib</key>
+		<data>
+		hbdMt+x71vIBq+7JnEX04S1wZmY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/failureScreen.nib</key>
 		<data>
@@ -248,6 +260,10 @@
 		<data>
 		Qi9u0/OPQsOpKhIHUABctbNQ9kw=
 		</data>
+		<key>Base.lproj/Main.storyboardc/lap-VJ-Ks9-view-AkP-oO-y3D.nib</key>
+		<data>
+		5VXj0g1djmuwBd4cwgrAGDerJ5w=
+		</data>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
 		<data>
 		i8ILgxKIYTfv19gdWlJy5epG1BQ=
@@ -258,7 +274,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/mFv-Ms-EeK-view-cSp-ac-Dmm.nib</key>
 		<data>
-		TUS0nhjWhL0RZvc0EdQnk2Z8uwk=
+		MpM1zk9xoCxJ0K7D6WPi6a/kwOs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/mJQ-AI-QU0-view-rsY-P5-FZl.nib</key>
 		<data>
@@ -342,7 +358,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/yJm-yp-X97-view-gDW-KI-BRy.nib</key>
 		<data>
-		rL5GeoNV4btW6zNn/Hx/QQZbT5g=
+		ot+zl7QyUc5AE0VnFGJkdHJGj0g=
 		</data>
 		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
 		<data>
@@ -406,11 +422,11 @@
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		e2wGCre/hLXljsWAsi8oTPdBxZQ=
+		Qn98z4/rV8P3yimK2wIGWdNrbd0=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Bx/6uOjhFG14l5sTJ+DAZrdsSSs=
+		dEwSsdKnB4Fbd0C2ud2XqUTp5hw=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -418,19 +434,19 @@
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Bx/6uOjhFG14l5sTJ+DAZrdsSSs=
+		dEwSsdKnB4Fbd0C2ud2XqUTp5hw=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		caF0OeQwUIJjUE8Lty5xCB6zXxM=
+		SwrKOZcBaGDjliQbe36mXbOiKeA=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		e2wGCre/hLXljsWAsi8oTPdBxZQ=
+		Qn98z4/rV8P3yimK2wIGWdNrbd0=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3qL4oT+GTQhjSyD3S3kOSrZmX6w=
+		f9H4qm70rlpiDlYKokld0+i32Aw=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -438,11 +454,11 @@
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3qL4oT+GTQhjSyD3S3kOSrZmX6w=
+		f9H4qm70rlpiDlYKokld0+i32Aw=
 		</data>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vJq9UK+q0zlMz3TTmpq/p6ANYpI=
+		z3VUlwpk29Hs+yhghPCjzJyXSfU=
 		</data>
 		<key>OrderSummaryMainView.nib</key>
 		<data>
@@ -467,7 +483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6zdgtf9twbamaVZ27jgYRVWaufIZJOs0Z0RoQJmzC/U=
+			/RWf/iVwdUtAUwGjQNkVU9Q3IikxjqvWEvhhVTLt+0A=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -600,7 +616,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7dpUvrq2MJLSmZzthRQ930QCbIXNHHd1Z/bGxR4vktE=
+			LhlF1avnNa8yDsiPZfH6Zyr79g2cU5zoCWLOUuWAlZw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/KeyFactStatementViewController.nib</key>
@@ -622,6 +638,13 @@
 			<key>hash2</key>
 			<data>
 			4tJ+ccvt8or8FFy8Uy/x0bkhyEuB/Sp92Fq79B/MHS8=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/PRA-sZ-FFu-view-xpn-b2-s7f.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iNFZuVHDJsQAvweMNv6F8uSvMjFf5HqIq3nRLgNElDk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/PaW-e9-NHD-view-Vwu-mx-YkA.nib</key>
@@ -824,7 +847,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aia8LJJa81YvsjnE/5/5JavJlrj1uLUrOBeJC3TeAtk=
+			eiuv21c9hfxv0kC5RfKGWaV2p35iwTAceNO0TILKD7o=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/emiPlanSelctionPage.nib</key>
@@ -832,6 +855,20 @@
 			<key>hash2</key>
 			<data>
 			mQ61kF6KKt22nM/ShfJjEECGBinN/EuEkKWb1n53rqo=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/emidownpaymentbreakup.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h3RYRBWhIRb8tlkECk8FDaDW8CYxeGk/N9kqavG5JdQ=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/emidownpaymentpage.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0rvoiS3j0tNynpq2JuDP13BUBkxIlMoCRSZagwx2Euo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/failureScreen.nib</key>
@@ -890,6 +927,13 @@
 			LUTA1f5OYR8rYhHIvJ3fDzgUAkSSlqggz3CcZHmBCGY=
 			</data>
 		</dict>
+		<key>Base.lproj/Main.storyboardc/lap-VJ-Ks9-view-AkP-oO-y3D.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6rIpTm+d4ep/8jyl0UA3hBRLyqUOgwC6iVmgRHmp3cE=
+			</data>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -908,7 +952,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yI3opqzh7Ym5Tmn9YGN2OPLJZEYmE5BkBkJfAmLSGKM=
+			LPrNsS6W6RzE6VNqn1eyRp2lLXyMP2tw4vdXIhRXx9M=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/mJQ-AI-QU0-view-rsY-P5-FZl.nib</key>
@@ -1055,7 +1099,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hIFHNk579JfuUk+OQP07K5/pkA9eYmmcN5ISvCbSxM=
+			pr/RV7WBrqcKe62L3ppZ3La1IhOK2HpdpQCxmmW400E=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
@@ -1160,14 +1204,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5zLcb/NscuWI0z+6KNg+OXDTEEyRx7TaN5fFp9I0AHI=
+			/gLXeWnFl6TBtzNtpfS0PLv/TmdznJgMrMNVG5HNj+0=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GFzH+f2gcrGCo5d294h+uVBnK3KTmP+TVkNRCxag/qs=
+			ZQM8oVPrpc0LXpzegVOt9IAWTNJpIS5UIcK+1VfQAyU=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1181,28 +1225,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GFzH+f2gcrGCo5d294h+uVBnK3KTmP+TVkNRCxag/qs=
+			ZQM8oVPrpc0LXpzegVOt9IAWTNJpIS5UIcK+1VfQAyU=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0osz4bXx2BhATF+aq9yfrqm+xK1vJnPYRWYliFKlGI=
+			C755o/zFPW08nCS7xxkixTLMrll4LM7Cv3USAKSSW+w=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5zLcb/NscuWI0z+6KNg+OXDTEEyRx7TaN5fFp9I0AHI=
+			/gLXeWnFl6TBtzNtpfS0PLv/TmdznJgMrMNVG5HNj+0=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AqJMZa5cQaHnb68nqPSZyocy3etpnxzop5PyE4s5EtI=
+			gPzWATr2x9HepEsWMUkI7cYZEPOtgGpwv6bFEQy3B4k=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1216,14 +1260,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AqJMZa5cQaHnb68nqPSZyocy3etpnxzop5PyE4s5EtI=
+			gPzWATr2x9HepEsWMUkI7cYZEPOtgGpwv6bFEQy3B4k=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_D2C.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j5om4Jn9E5ulcMbL5YOPBwmmUVLuSRqHu29Lzm23SNU=
+			9V5DJ6mPdMlmYpHNMNOn40FTgpj0FPP+cRZ4+YhSyv4=
 			</data>
 		</dict>
 		<key>OrderSummaryMainView.nib</key>
