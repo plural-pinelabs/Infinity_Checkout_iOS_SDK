@@ -454,7 +454,7 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		bp0qIfzP6ZiuF+pXcXZPlNYlloo=
+		Rv1DslycDdxw32lq2CkcSkJPLnc=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -470,11 +470,11 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2k0f510AwTTC6UmiF/BV2urDR1Y=
+		fk1+79S2GCkpfFAF9CMIa5DsT10=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		bp0qIfzP6ZiuF+pXcXZPlNYlloo=
+		Rv1DslycDdxw32lq2CkcSkJPLnc=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -490,7 +490,7 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		p5HXofNydzCveGRHynlJdTmExS8=
+		OiyeSEWqReJPjhxX37btOsERCGA=
 		</data>
 		<key>OrderSummaryMainView.nib</key>
 		<data>
@@ -1296,7 +1296,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TkY2NbHiO01lZMhVWDywG62K9wc036pUxuRg4UvReXs=
+			B1fdkVufTEikdxGKpBMG6J5Xqtky1z9VyUVpLYNIDvk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1324,14 +1324,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zk/u+metFMg/DzisQNt6n3FN28OdTxZTt0dJ2dcKvI8=
+			GPaeIKdBQ5JIoJjg5tK309L+y/qWkHqRqoopGyYvPMk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TkY2NbHiO01lZMhVWDywG62K9wc036pUxuRg4UvReXs=
+			B1fdkVufTEikdxGKpBMG6J5Xqtky1z9VyUVpLYNIDvk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1359,7 +1359,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sIJ8nbJI09S/01wgWINgka2GpS4BEeoyrxMzdkJ8DKc=
+			Eb18EQK84m5KgKO6sRiQIqZYeSToYuECmEdb6bXS0Xw=
 			</data>
 		</dict>
 		<key>OrderSummaryMainView.nib</key>
