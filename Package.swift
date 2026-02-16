@@ -2,19 +2,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "IOS_SDK_D2C",
+    name: "PineLabsOnline_IOS_SDK",
     platforms: [
         .iOS(.v11)
     ],
     products: [
         .library(
-            name: "IOS_SDK_D2C",
-            targets: ["IOS_SDK_D2C"]),
+            name: "PineLabsOnline_IOS_SDK",
+            targets: ["PineLabsOnline_IOS_SDK"]
+        ),
     ],
     targets: [
         .binaryTarget(
-            name: "IOS_SDK_D2C",
-            path: "./IOS_SDK_D2C.xcframework"
+            name: "PineLabsOnline_IOS_SDK",
+            path: "./PineLabsOnline_IOS_SDK.xcframework"
         )
     ]
 )
