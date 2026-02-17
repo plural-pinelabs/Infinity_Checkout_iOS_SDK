@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		DqpAsSfq2XNS8zaN9n/8vdQ3o1w=
+		urQu43qQ0jpX9F/7Fi1fYBK/T+I=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/8rd-fB-Z5f-view-gWH-4G-n32.nib</key>
 		<data>
-		JTPqEvBJvD1K/0Ke8Jn+tcbkmRI=
+		N0oKZvV+tK1iW6LsX0h3USqAiTo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/9Vs-5o-E9c-view-3yc-qv-xkW.nib</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/TL2-Mu-9tE-view-ghb-1B-Asf.nib</key>
 		<data>
-		KqA20r8yXVjxESBk/xvUErF3pSs=
+		7NF1XzMJ0VJyim+FpSctvertYvU=
 		</data>
 		<key>Base.lproj/Main.storyboardc/TfY-d3-np3-view-MVo-Ps-JY2.nib</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/mFv-Ms-EeK-view-cSp-ac-Dmm.nib</key>
 		<data>
-		tL0IT0IwtCTgg1TaUpGfqsywSy0=
+		R3/OBwdo97t0uBM1ucEl5IKLuRk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/mJQ-AI-QU0-view-rsY-P5-FZl.nib</key>
 		<data>
@@ -334,7 +334,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/q5C-Pd-dxl-view-HOc-AM-iqo.nib</key>
 		<data>
-		qlZV0K2yIQ+dSuECdOx6XnD4Ekg=
+		/cK3TJtS9ndD+ZSkOhz6iapXnjI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/qz5-cm-da4-view-Shn-bc-awV.nib</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/wOb-gk-siY-view-Yu3-79-vu4.nib</key>
 		<data>
-		/Q3EjkEcsrCKW0PAP/LpaLJdwPA=
+		Oy11DajpN3UDgWWkGoZVVUhht5o=
 		</data>
 		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
 		<data>
@@ -382,7 +382,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/yJm-yp-X97-view-gDW-KI-BRy.nib</key>
 		<data>
-		9mx7wL7TuSQWyhCxNJPZAiZbRd4=
+		xEoLaVwpo0U31/4a4NY27yVxi8A=
 		</data>
 		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
 		<data>
@@ -390,7 +390,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/z7g-Tf-1qB-view-NtT-G3-4Ig.nib</key>
 		<data>
-		1fgbQxGnt3giYc3Lx37V8Vipnc4=
+		euDxVfwKXn9fdroqeZciZky0ZE4=
 		</data>
 		<key>CardTableViewCell.nib</key>
 		<data>
@@ -446,7 +446,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HHMOgzBJCKiSR0TrPSOk+Bcp9cw=
+		R3+fZgPRIVXonys9mpS9oB+2G7Y=
 		</data>
 		<key>MainRecommendedView.nib</key>
 		<data>
@@ -454,7 +454,7 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Rv1DslycDdxw32lq2CkcSkJPLnc=
+		ftBiJF+wsmEIitbgkgKUmqwvfoU=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -470,11 +470,11 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fk1+79S2GCkpfFAF9CMIa5DsT10=
+		aZvJ4jSUXWobIXnmEyR4fr3pjcA=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Rv1DslycDdxw32lq2CkcSkJPLnc=
+		ftBiJF+wsmEIitbgkgKUmqwvfoU=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -490,7 +490,7 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OiyeSEWqReJPjhxX37btOsERCGA=
+		CbiSEQTIzKusoclhpExGtvxezPU=
 		</data>
 		<key>OrderSummaryMainView.nib</key>
 		<data>
@@ -519,7 +519,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZbG2DkaC6H44LkULIcpNtE6CSbeIXGB41Oy6X9yToo=
+			ExRwZH1hV7ytE+zYvgngV6pNqKtrt5M5y8q9xHJyoOc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -575,7 +575,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e7FyZ35tmN3UZQ1O8Xsb1UGA8DIX2ZWAYifhFXiFwC0=
+			nOn3YAb3llELZbSKKcTvQ1izX+ZSeTiEKx3L0xw7L3M=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/9Vs-5o-E9c-view-3yc-qv-xkW.nib</key>
@@ -722,7 +722,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lYCr/7uxQaKTDuiVkmv6Jv5xglMS3Ej/s1aVAPN8UUM=
+			+YUqS3zi0tO0cDMoTnor/KXeOjo/aQxCXpQpU3/fMzs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/TfY-d3-np3-view-MVo-Ps-JY2.nib</key>
@@ -1023,7 +1023,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fo71BDrc3UE6oylh5LV7sZGeXWrBLyoAdC0aS8MUA1c=
+			c10mCtgBdXHylLcN79gT9ICK/E1DJxzpjBPo9paOCHk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/mJQ-AI-QU0-view-rsY-P5-FZl.nib</key>
@@ -1093,7 +1093,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+lJB9Vg7BOR4Z7HiIWK19YBtB6uQ8DTWnlyYIe6yyfQ=
+			JDB+q8IYFW1S1S+Bsh2OFj7XBsum20oyqSDM0RvJ4W0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/qz5-cm-da4-view-Shn-bc-awV.nib</key>
@@ -1163,7 +1163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7qxgqPa9KV0Lt/Gzb3NgAYHE1QzwjTws8IDChI58rOg=
+			JhEGKOU/4VL6zSWIlZgxg74WGxcNQdBb0VAuNbGGHPY=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
@@ -1177,7 +1177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ErofMCNL7tFGd0rXiDo5vcicIMlXk9Iw4lefbkYVSNo=
+			OE4niWcrUogqQ3qZsNV39ZTukHZlVoUXcvz25rTHltE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
@@ -1191,7 +1191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oVL4ccDnY2RlyEoPOnVgWh1F30CuDSWqwzdky1l4AuI=
+			+2UNxGqwQHL9FMatEsYOIymCAcgAi0AJYhMo0HYc/Kw=
 			</data>
 		</dict>
 		<key>CardTableViewCell.nib</key>
@@ -1296,7 +1296,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1fdkVufTEikdxGKpBMG6J5Xqtky1z9VyUVpLYNIDvk=
+			+vsk68OKeYw8NNYryBY+VHNa4Sh64AaOO8iF0eAQTNk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1324,14 +1324,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GPaeIKdBQ5JIoJjg5tK309L+y/qWkHqRqoopGyYvPMk=
+			sE03N433I6aUL0s7Ip2TfCj5Dl/hZ5wUjOcd1Z8GBwg=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1fdkVufTEikdxGKpBMG6J5Xqtky1z9VyUVpLYNIDvk=
+			+vsk68OKeYw8NNYryBY+VHNa4Sh64AaOO8iF0eAQTNk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1359,7 +1359,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eb18EQK84m5KgKO6sRiQIqZYeSToYuECmEdb6bXS0Xw=
+			/m2zySQfiXORM3bJYm9Jh1pSswD1zbSIVO8wP5QlLSQ=
 			</data>
 		</dict>
 		<key>OrderSummaryMainView.nib</key>
