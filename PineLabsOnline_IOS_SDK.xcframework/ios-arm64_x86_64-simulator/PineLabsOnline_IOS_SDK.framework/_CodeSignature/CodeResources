@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		urQu43qQ0jpX9F/7Fi1fYBK/T+I=
+		QH18QfK6NAyyiYnQLWCf1jmORVA=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/43d-Zg-cAg-view-dJ1-Sz-lhf.nib</key>
 		<data>
-		+Fu30PiBNXEy5PlFdmfsxBok1PI=
+		ZWpjQkdietXK8uozWO5oGuNseWA=
 		</data>
 		<key>Base.lproj/Main.storyboardc/6a7-wj-Lpp-view-Apu-qn-nxf.nib</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/8rd-fB-Z5f-view-gWH-4G-n32.nib</key>
 		<data>
-		N0oKZvV+tK1iW6LsX0h3USqAiTo=
+		JTPqEvBJvD1K/0Ke8Jn+tcbkmRI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/9Vs-5o-E9c-view-3yc-qv-xkW.nib</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/CAn-LP-kDu-view-WWW-uB-p8i.nib</key>
 		<data>
-		okr1cx0S/4I1qvxwYMmQP0w4Bw8=
+		R1q9yVXV/a4P9SeFSq7CW2iFvDQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/CancelReasonViewController.nib</key>
 		<data>
@@ -63,6 +63,10 @@
 		<key>Base.lproj/Main.storyboardc/CardsPageViewController.nib</key>
 		<data>
 		lGsn6reoijbBiklOst70Ql6MDx4=
+		</data>
+		<key>Base.lproj/Main.storyboardc/CreateWalletViewController.nib</key>
+		<data>
+		dw5gE9Io8UCaiNLJLpyU+DCHWDQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/D8D-ZA-gYD-view-XsJ-NM-BHc.nib</key>
 		<data>
@@ -86,11 +90,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/GUd-7h-Zaf-view-hyp-r5-PoS.nib</key>
 		<data>
-		scergS0DAhY2Sjq3DRjw4CnJCsM=
+		PzdaYJv07vsCbYT2WGT7Z1hP9io=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		xLMbrtV56O2O+ei+5VGNI8boa6c=
+		NDNkFE+WZGftoWeIpZEzv1XMCMk=
+		</data>
+		<key>Base.lproj/Main.storyboardc/Jqi-2P-6Qc-view-Zpe-5e-kSc.nib</key>
+		<data>
+		nhkw2S4Odi3lzT4efnIeAruqvyo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/KeyFactStatementViewController.nib</key>
 		<data>
@@ -98,11 +106,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/LIY-6L-KMD-view-L97-aW-VEV.nib</key>
 		<data>
-		N263D6Jmt+NHRbmBebw3NpsPhxU=
+		SOk7CNLahEXyDKof4HmF2TV7vLQ=
+		</data>
+		<key>Base.lproj/Main.storyboardc/MobileNumberChangeOtpPopup.nib</key>
+		<data>
+		frRKEaMGdUsgPMABtIYwSRi8Tz0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
 		<data>
-		jNVk6qTGifAAdCiBDobLeef6sPs=
+		GCzzhAJMixq9NB5kAfOsPDLjntA=
 		</data>
 		<key>Base.lproj/Main.storyboardc/PaW-e9-NHD-view-Vwu-mx-YkA.nib</key>
 		<data>
@@ -114,7 +126,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/PendingStateViewController.nib</key>
 		<data>
-		MaeUpeklVUfrVzhBc+LyPP2TUuo=
+		Da9pYEwm0USKcmd0M5R83Gwr+WM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/SgW-na-lsx-view-Hn1-CN-902.nib</key>
 		<data>
@@ -182,11 +194,19 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/WebViewController.nib</key>
 		<data>
-		F8CjgH4bqu7JbqsLWF6ykiMbk8Y=
+		cW7YUb9Ew2YeyE5rai85U9Ys6oo=
+		</data>
+		<key>Base.lproj/Main.storyboardc/YI9-8I-U5I-view-eMR-SL-evK.nib</key>
+		<data>
+		yp9ovvWyRDf87o2DbsWY9uJZNYQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/aQ6-v2-xWW-view-rmA-0L-IBd.nib</key>
 		<data>
 		J8ii2+SKMJ9jabAQonuA7LLLCM4=
+		</data>
+		<key>Base.lproj/Main.storyboardc/addMoneyVC.nib</key>
+		<data>
+		ZDWRs/AyIL77ntkWqjmokfoY830=
 		</data>
 		<key>Base.lproj/Main.storyboardc/axW-UA-H7t-view-00R-Lo-ERw.nib</key>
 		<data>
@@ -194,7 +214,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/bAP-G5-hXd-view-00f-9I-fao.nib</key>
 		<data>
-		+bykaYi/0IhtIeDkeDKvSwKuyYQ=
+		g2gxBkwUbhWxy7v6Kix2yg+krSc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/chosePanVC.nib</key>
 		<data>
@@ -262,7 +282,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/htJ-nQ-6qL-view-TJk-jk-T7e.nib</key>
 		<data>
-		rWn8SF//nLsiwhVjrLaLwAsz+wk=
+		6tHXGFQFL2EYCIb2xfdQ3Do3JdM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/instantCredit.nib</key>
 		<data>
@@ -278,7 +298,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/landing_page.nib</key>
 		<data>
-		Q2lORt/AicAz8rIeKhsGrcFqEvk=
+		uoY6kTF9CHrIlwT291gQZBaRxDM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/lap-VJ-Ks9-view-AkP-oO-y3D.nib</key>
 		<data>
@@ -286,7 +306,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
 		<data>
-		i8ILgxKIYTfv19gdWlJy5epG1BQ=
+		2gJjuCedcz10+xqtsCMxxv4ewoY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/loading_page.nib</key>
 		<data>
@@ -300,13 +320,9 @@
 		<data>
 		uX5ktPDmEgAPiE0p1hj6xaXjgxY=
 		</data>
-		<key>Base.lproj/Main.storyboardc/mobileNumberChnageOtpPage.nib</key>
-		<data>
-		b6ZuHwfBmasQdZCQPfaeG+TGbpU=
-		</data>
 		<key>Base.lproj/Main.storyboardc/nHB-RT-l94-view-YjW-WV-AJi.nib</key>
 		<data>
-		CYRmSkebALvYXAXn0EGOVau1/ss=
+		Y7sfWx0i19v8JObwyCBO4VwD13Q=
 		</data>
 		<key>Base.lproj/Main.storyboardc/nYF-aT-0Uz-view-oje-p8-QoN.nib</key>
 		<data>
@@ -358,15 +374,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/starting_page.nib</key>
 		<data>
-		k7tVhWZcHVK91IQKoKdWUjWifDU=
+		PciY5wqzm9AKYy6ABXIqkHYc0t0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/success_page.nib</key>
 		<data>
 		1jsFi7XhgY7i34dPiOLMqzOCoa4=
 		</data>
-		<key>Base.lproj/Main.storyboardc/unlockSavedCardsPopup.nib</key>
+		<key>Base.lproj/Main.storyboardc/unlockQCWalletPopup.nib</key>
 		<data>
-		aGc62Yc4Je9V16VgQPzNv74Gwnw=
+		x3QPAyByLiAF1fdYjlQ8I91UA58=
 		</data>
 		<key>Base.lproj/Main.storyboardc/upiretry.nib</key>
 		<data>
@@ -374,11 +390,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/wOb-gk-siY-view-Yu3-79-vu4.nib</key>
 		<data>
-		Oy11DajpN3UDgWWkGoZVVUhht5o=
+		IYNkmYf/PlLlYe6FDAymPUa9uAU=
 		</data>
 		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
 		<data>
-		WLoIxPBHW1gtDRypoT8iPTKMEm4=
+		PueQ9nnTJsaE52B8SNmzpcEXdME=
 		</data>
 		<key>Base.lproj/Main.storyboardc/yJm-yp-X97-view-gDW-KI-BRy.nib</key>
 		<data>
@@ -454,11 +470,11 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ftBiJF+wsmEIitbgkgKUmqwvfoU=
+		M+rSaonfPN/K2Yy7nRsMjaN8Ozo=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PmUTRJf2qL8bz62lXCUIzakrVws=
+		1WIdcxMLFTg89P/eg65Owj2l4vA=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -466,19 +482,19 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PmUTRJf2qL8bz62lXCUIzakrVws=
+		1WIdcxMLFTg89P/eg65Owj2l4vA=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aZvJ4jSUXWobIXnmEyR4fr3pjcA=
+		iWhTc4SNqFqaknmw0zRr+49Lx0k=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ftBiJF+wsmEIitbgkgKUmqwvfoU=
+		M+rSaonfPN/K2Yy7nRsMjaN8Ozo=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yzIMB4Y2k8U/aRUn/ZHQwm+UrN0=
+		fIayZIDJSmMCiePEeqi7VbSjNNo=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -486,11 +502,11 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yzIMB4Y2k8U/aRUn/ZHQwm+UrN0=
+		fIayZIDJSmMCiePEeqi7VbSjNNo=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CbiSEQTIzKusoclhpExGtvxezPU=
+		u++c7xKLWDJBLwwoFgEQeX8XDs8=
 		</data>
 		<key>OrderSummaryMainView.nib</key>
 		<data>
@@ -519,7 +535,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ExRwZH1hV7ytE+zYvgngV6pNqKtrt5M5y8q9xHJyoOc=
+			pyzpWdE9WJvzJhhIaaCLR/ce8hGXhjqYaf1aAhNDsfM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -561,7 +577,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r9/oQi/ma0jwn8CUiAPxg6N4nhC141b7gWXw83aIS50=
+			ukEx39pqq50iXr4cHx/scTbRZUwGK6BQ5G6hXasqrY4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/6a7-wj-Lpp-view-Apu-qn-nxf.nib</key>
@@ -575,7 +591,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOn3YAb3llELZbSKKcTvQ1izX+ZSeTiEKx3L0xw7L3M=
+			e7FyZ35tmN3UZQ1O8Xsb1UGA8DIX2ZWAYifhFXiFwC0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/9Vs-5o-E9c-view-3yc-qv-xkW.nib</key>
@@ -603,7 +619,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uS6b0dOQ4EyeyCxOK4TSH6EY5eKRRhuoDAr9X2Kjc8=
+			R6Fb9DhH44pBKSo3RCeMQ3okshaw0ANQ48lAGhBtTWE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/CancelReasonViewController.nib</key>
@@ -618,6 +634,13 @@
 			<key>hash2</key>
 			<data>
 			Nk+NJgOmM+R45uLmJOeqjsFlfdFk+5NBdTeFTBSMf+k=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/CreateWalletViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IW9G0lmwQQsWfx2DpFP8Ty3OwODk7edkZA3FkSenM9U=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/D8D-ZA-gYD-view-XsJ-NM-BHc.nib</key>
@@ -659,14 +682,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DQuBImXWS0Vq7ys12W3oLadKteCnXrJ+SEyalChYT7I=
+			/FThNUnZlLXoZIIEogRHe2EEJamQZTLBtLEZ6nx13MM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vIMMVvV4YTT4w7HG2uI7LZK6XnqMIhs+eiowyHZLr1E=
+			Jk9miJW3ZnNZXHXUszX4II21ovKNhMkrxBOGMT/qd+w=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/Jqi-2P-6Qc-view-Zpe-5e-kSc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZUVMcF5nHrmavrT/ouhGIRzTZ/qUHno6mViKozEBPLo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/KeyFactStatementViewController.nib</key>
@@ -680,14 +710,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/wIKw6tMs5KCwtNmQWY6qu0vpKTkoPoGPCYwuFfZL9o=
+			v7El7X3cwtOdiKh30H23uKSuk0WZZ/5322Pc/oMZEkw=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/MobileNumberChangeOtpPopup.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gEtX6VB5896IHyBQ83c0FVAvhO4QOcRHbKRY5TsuDuw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gJJg+Fbsln68jHTTVhDi8E90YQdIXPnoVqTaWGoarjg=
+			GAHmGSNSi2WXapBX2xY5LuMcAq+LX2wCJ2g+JWsGzG4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/PaW-e9-NHD-view-Vwu-mx-YkA.nib</key>
@@ -708,7 +745,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EkYXBhtTqvfh5MXvsKRl2Y7F7E1pRJjMTyVKrcDj+D8=
+			7kyRD/z8qxhdigCssaIYN3VV4FQXuwzN1zEzfo7LTdE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/SgW-na-lsx-view-Hn1-CN-902.nib</key>
@@ -827,7 +864,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KbYd+6N0/bsaYXtCAO8rJMHboOL2Yc6LZaA65rvE/q0=
+			ZkcDjxFN5ag004o8pqZO8AzUzJcNsLBvcLyBk5iE3l0=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/YI9-8I-U5I-view-eMR-SL-evK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ce4tFd+qCtO48yW3d+ryjed4qgJF9MJYiEDb6ob07u0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/aQ6-v2-xWW-view-rmA-0L-IBd.nib</key>
@@ -835,6 +879,13 @@
 			<key>hash2</key>
 			<data>
 			jyAlMl+kqjmugtBi9Ess4/X+exdzlIyF+2wAc+80akM=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/addMoneyVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9kUJ86WdBYySGvAeNj8Xts3ZlNSAzLb5foTDjZpfyWs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/axW-UA-H7t-view-00R-Lo-ERw.nib</key>
@@ -848,7 +899,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZMDnVAMdXh3nDxx14f2SLE4b+mGA3rs/apYXPiRydU=
+			AUzC3MikBY91rqkHBLkDTqNE72UEnd4riBXYUnSZ6+c=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/chosePanVC.nib</key>
@@ -967,7 +1018,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2LEkTDrqeyqBh5YLt69PjKhfZ34coeVZLQogTVgMM0g=
+			6b9bsgvMRvWO3u0bfToVgzQxAFudkksb68rnIzBpnnc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/instantCredit.nib</key>
@@ -995,7 +1046,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pSNXIbBXR8K4uBYIy6LD8oHsIZ/fbE1oVGtQXcCs9kk=
+			01FyjlLPMQZeq4NyvwHDKN5CmVQEj/DagMTWwEBME4k=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/lap-VJ-Ks9-view-AkP-oO-y3D.nib</key>
@@ -1009,7 +1060,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WRgiwqjofZhI1StMviFQIBC8NN7j1nvuhI1se7SDmdA=
+			IhN3yEjCepxQTis5MpQ1dCm0uYlbCn4aGBykgm2p2rI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/loading_page.nib</key>
@@ -1033,18 +1084,11 @@
 			GUQ6acfzlw8tSLShmu1qJVFiIazvWGjGWiGO5A57Ewo=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/mobileNumberChnageOtpPage.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6jTE5sfuoOme769PK0u9CUNRc9WgYbRT/v0i6xR8Yjs=
-			</data>
-		</dict>
 		<key>Base.lproj/Main.storyboardc/nHB-RT-l94-view-YjW-WV-AJi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cWgXwXlBl2Gk3INh9jvT57a+aUy0jLJpcLzJBqdcvBI=
+			gsXHHck7yUbwgteyu/wx5WRrIs+P7LpVC1MUsqKMYlE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/nYF-aT-0Uz-view-oje-p8-QoN.nib</key>
@@ -1135,7 +1179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sxcjkrn90Yb06w8i/Kv6+O+y8GER5XzKcdUZc6wBCks=
+			IgLAiqh7VabNgjz9xQFzcd+LXVV7EZSDK+fGLSJn1VI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/success_page.nib</key>
@@ -1145,11 +1189,11 @@
 			2/8JjYZg7RWXkwZOMV5139z7RyPKZtMgDrImAfv2e5w=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/unlockSavedCardsPopup.nib</key>
+		<key>Base.lproj/Main.storyboardc/unlockQCWalletPopup.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EZ454vW2xyF9eZHWw3GIq5DJnOIgeStOzRv5Vi8LNgY=
+			W9qxMAO+lfbBwSDzlP9lznKi2aTFoe1QLLe30gwFGgI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/upiretry.nib</key>
@@ -1163,14 +1207,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JhEGKOU/4VL6zSWIlZgxg74WGxcNQdBb0VAuNbGGHPY=
+			nuynx1xBcxTmeQuwBxPpFuj0jIwPSbpqKmD9oQXUpc4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MFUrX2l+HZObug3AZiJMh25XgSSQ2zzWA2JwZ0HWYWk=
+			OqzZeZiIImw/jdKb9+N5r+ac93MZQwlXwau9H6kazfI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/yJm-yp-X97-view-gDW-KI-BRy.nib</key>
@@ -1296,14 +1340,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vsk68OKeYw8NNYryBY+VHNa4Sh64AaOO8iF0eAQTNk=
+			xt2c4RV6i5zOTwh5rtliv5VIijMw+6whGjnR3d6BUkk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tIZbOCoO2TC5ZcBC4bPN1PCxvgJBtnTCOnCn7QDR/hA=
+			rv1FRh7F1YalmP9aAiA27Wy5ED7nLkD/hHcd+cAmuE0=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1317,28 +1361,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tIZbOCoO2TC5ZcBC4bPN1PCxvgJBtnTCOnCn7QDR/hA=
+			rv1FRh7F1YalmP9aAiA27Wy5ED7nLkD/hHcd+cAmuE0=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sE03N433I6aUL0s7Ip2TfCj5Dl/hZ5wUjOcd1Z8GBwg=
+			lgwPfaZtoILDdEYy+gca+bLOHQERgNJ8s9KF9w5HavE=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vsk68OKeYw8NNYryBY+VHNa4Sh64AaOO8iF0eAQTNk=
+			xt2c4RV6i5zOTwh5rtliv5VIijMw+6whGjnR3d6BUkk=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			90gyr5ONfcNyQ8Fjpd0t0ZYdHUPg2l5SLjo/5rXkW48=
+			rZrR2UOJn1h6nTrz/bfM1rmOPC/OeU3pVe7802zTh+w=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1352,14 +1396,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			90gyr5ONfcNyQ8Fjpd0t0ZYdHUPg2l5SLjo/5rXkW48=
+			rZrR2UOJn1h6nTrz/bfM1rmOPC/OeU3pVe7802zTh+w=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/m2zySQfiXORM3bJYm9Jh1pSswD1zbSIVO8wP5QlLSQ=
+			JPjjx55PzRbXlOMDLEjOwLEtvBc4Km1sgLIck7Hm44M=
 			</data>
 		</dict>
 		<key>OrderSummaryMainView.nib</key>
