@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		wIXw7Jt/zbIdBkTMCsaqwmTwK4o=
+		HeJgCKaG7L0SksV75m1QnKOm7N8=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -470,7 +470,7 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KEJeJ0aw4u17HCFIyUfVBiM90u4=
+		EFWRK6ShEurLeHxXMURxM6Kozic=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -490,7 +490,7 @@
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KEJeJ0aw4u17HCFIyUfVBiM90u4=
+		EFWRK6ShEurLeHxXMURxM6Kozic=
 		</data>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -535,7 +535,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qqatrr1sde+KRpZAQuu64VO2j8mkkpwNNevBgju61gw=
+			zOK8Pm+9tn/BEjW2Sovxdv7OLxgHlpvc7tCvSYPQtqc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -1340,7 +1340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RIgwy0qiWy+4jn7/Of0buqLaQcURxVQlCwDXk8sLDUQ=
+			aYtbaDDLTXR7uP0YYOh1H7ZZ4xan6U33NcBgWwz6yMc=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1375,7 +1375,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RIgwy0qiWy+4jn7/Of0buqLaQcURxVQlCwDXk8sLDUQ=
+			aYtbaDDLTXR7uP0YYOh1H7ZZ4xan6U33NcBgWwz6yMc=
 			</data>
 		</dict>
 		<key>Modules/PineLabsOnline_IOS_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
