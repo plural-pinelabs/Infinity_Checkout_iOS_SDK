@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
-// swift-module-flags: -target arm64-apple-ios16-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name PineLabsOnline_IOS_SDK
-// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
+// swift-compiler-version: Apple Swift version 6.3.1 effective-5.10 (swiftlang-6.3.1.1.2 clang-2100.0.123.102)
+// swift-module-flags: -target arm64-apple-ios16-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name PineLabsOnline_IOS_SDK
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3.1
 import AVFoundation
 import CoreGraphics
 import DeveloperToolsSupport
@@ -28,14 +28,13 @@ import _SwiftConcurrencyShims
   final public var duration: CoreFoundation.CGFloat
   public static let `default`: PineLabsOnline_IOS_SDK.Toas
   final public func show(text: Swift.String, duration: Swift.Double)
-  #if compiler(>=5.3) && $NonescapableTypes
   final public func dismiss(animated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
-  #endif
   @objc deinit
 }
 final public class PineLabsOnlineSDKManager {
   public init()
   final public func startPayment(from viewController: UIKit.UIViewController, orderToken: Swift.String, environment: PineLabsOnline_IOS_SDK.Environment = .uat, callBack: any PineLabsOnline_IOS_SDK.ResponseCallback)
+  final public func startPayment(from viewController: UIKit.UIViewController, orderToken: Swift.String, subscriptionId: Swift.String?, environment: PineLabsOnline_IOS_SDK.Environment = .uat, callBack: any PineLabsOnline_IOS_SDK.ResponseCallback)
   @objc deinit
 }
 public enum Environment {
@@ -105,6 +104,7 @@ public class EdgeController {
   weak public static var sdkNavController: UIKit.UINavigationController?
   public init()
   public func startPayment(from viewController: UIKit.UIViewController, orderToken: Swift.String, environment: PineLabsOnline_IOS_SDK.Environment = .uat, callBack: any PineLabsOnline_IOS_SDK.ResponseCallback)
+  public func startPayment(from viewController: UIKit.UIViewController, orderToken: Swift.String, subscriptionId: Swift.String?, environment: PineLabsOnline_IOS_SDK.Environment = .uat, callBack: any PineLabsOnline_IOS_SDK.ResponseCallback)
   @objc deinit
 }
 @objc public protocol ResponseCallback {
@@ -122,30 +122,18 @@ public class EdgeController {
   @objc deinit
   @_Concurrency.MainActor @preconcurrency @objc public func webView(_ webView: WebKit.WKWebView, decidePolicyFor navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)
   @_Concurrency.MainActor @preconcurrency @objc public func navigationController(_ navigationController: UIKit.UINavigationController, willShow viewController: UIKit.UIViewController, animated: Swift.Bool)
-  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc public func webView(_ webView: WebKit.WKWebView, didFinish navigation: WebKit.WKNavigation!)
-  #endif
   @_Concurrency.MainActor @preconcurrency @objc public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
-  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc public func webView(_ webView: WebKit.WKWebView, didFail navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
-  #endif
 }
 public protocol ApplePayHandlerDelegate : AnyObject {
-  #if compiler(>=5.3) && $NonescapableTypes
   func applePayDidFinish(success: Swift.Bool, error: (any Swift.Error)?)
-  #endif
 }
 @objc final public class ApplePayHandler : ObjectiveC.NSObject {
   weak final public var delegate: (any PineLabsOnline_IOS_SDK.ApplePayHandlerDelegate)?
-  #if compiler(>=5.3) && $NonescapableTypes
   public init(appleMerchantID: Swift.String, orderToken: Swift.String, paymentData: [Swift.String : Any]? = nil)
-  #endif
   final public func checkApplePayAvailability() -> Swift.Bool
   final public func onApplePayButtonClicked(from viewController: UIKit.UIViewController)
   @objc deinit

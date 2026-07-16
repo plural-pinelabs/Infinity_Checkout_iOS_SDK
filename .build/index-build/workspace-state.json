@@ -2,18 +2,22 @@
   "object" : {
     "artifacts" : [
       {
-        "kind" : "xcframework",
-        "packageRef" : {
-          "identity" : "ios_sdk_d2c_spm",
-          "kind" : "root",
-          "location" : "/Users/namanpandey/Desktop/IOS_SDK_D2C_SPM",
-          "name" : "IOS_SDK_D2C_SPM"
+        "kind" : {
+          "xcframework" : {
+
+          }
         },
-        "path" : "/Users/namanpandey/Desktop/IOS_SDK_D2C_SPM/IOS_SDK_D2C.xcframework",
+        "packageRef" : {
+          "identity" : "infinity_checkout_ios_sdk",
+          "kind" : "root",
+          "location" : "/Users/namanpandey/Documents/GitHub/Infinity_Checkout_iOS_SDK",
+          "name" : "Infinity_Checkout_iOS_SDK"
+        },
+        "path" : "/Users/namanpandey/Documents/GitHub/Infinity_Checkout_iOS_SDK/PineLabsOnline_IOS_SDK.xcframework",
         "source" : {
           "type" : "local"
         },
-        "targetName" : "IOS_SDK_D2C"
+        "targetName" : "PineLabsOnline_IOS_SDK"
       }
     ],
     "dependencies" : [
