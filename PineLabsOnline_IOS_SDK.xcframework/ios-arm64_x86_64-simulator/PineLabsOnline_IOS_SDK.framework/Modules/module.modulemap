@@ -1,0 +1,6 @@
+framework module PineLabsOnline_IOS_SDK {
+  umbrella header "PineLabsOnline_IOS_SDK.h"
+  export *
+
+  module * { export * }
+}
