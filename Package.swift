@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "PineLabsOnline_IOS_SDK",
     platforms: [
-        .iOS(.v11)
+        .iOS("16.6")
     ],
     products: [
         .library(
